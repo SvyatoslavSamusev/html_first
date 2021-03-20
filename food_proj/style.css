@@ -125,6 +125,7 @@ html {
    letter-spacing: .5rem;
    text-shadow: .15rem .15rem .15rem #000;
    margin: 2rem 0;
+   text-shadow: .2rm .2rem .2rem #000;
 }
 
 .card-btn {
@@ -139,4 +140,5 @@ html {
    cursor: pointer;
    border-radius: 5rem;
    border: none;
+   box-shadow: -.2rem -.2rem -.2rem #111;
 }
