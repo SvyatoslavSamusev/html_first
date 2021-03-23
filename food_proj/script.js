@@ -22,3 +22,12 @@ document.querySelector('.menu').addEventListener('click', () => {
 		item.classList.toggle('change');
 	})
 })
+
+
+
+
+
+
+
+
+
